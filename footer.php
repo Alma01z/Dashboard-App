@@ -1,7 +1,7 @@
                   <!-- footer -->
                   <div class="container-fluid">
                       <div class="footer">
-                          <p>Copyright © 2022 Bains Software. All rights reserved.<br><br>
+                          <p>Copyright © Bains Software. All rights reserved.<br><br>
                           </p>
                       </div>
                   </div>
